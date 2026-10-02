@@ -1,12 +1,12 @@
 ![logo](https://github.com/fatimanasirawan/fatimanasirawan/blob/main/banner.JPG)
 
 <h1 align="center">Hi 👋, I'm Fatima Nasir Awan</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h3 align="center">A passionate Software Engineer || JS Full Stack Developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatimanasirawan&label=Profile%20views&color=0e75b6&style=flat" alt="fatimanasirawan" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/fatimanasirawan/](https://www.linkedin.com/in/fatimanasirawan/)
+- 👨‍💻 All of my projects are available at [ https://fatima-digital-portfolio.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
