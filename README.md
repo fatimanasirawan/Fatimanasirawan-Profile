@@ -19,48 +19,23 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://w3schools.com" target="_blank" rel="noreferrer"> 
-    <img src="https://jsdelivr.net" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://w3schools.com" target="_blank" rel="noreferrer"> 
-    <img src="https://jsdelivr.net" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://figma.com" target="_blank" rel="noreferrer"> 
-    <img src="https://vectorlogo.zone" alt="figma" width="40" height="40"/> 
-  </a> 
-  <a href="https://w3.org" target="_blank" rel="noreferrer"> 
-    <img src="https://jsdelivr.net" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://jsdelivr.net" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://mozilla.org" target="_blank" rel="noreferrer"> 
-    <img src="https://jsdelivr.net" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://mariadb.org" target="_blank" rel="noreferrer"> 
-    <img src="https://vectorlogo.zone" alt="mariadb" width="40" height="40"/> 
-  </a> 
-  <a href="https://mysql.com" target="_blank" rel="noreferrer"> 
-    <img src="https://jsdelivr.net" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://jsdelivr.net" alt="postgresql" width="40" height="40"/> 
-  </a>
-  <a href="https://react.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://jsdelivr.net" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://js.org" target="_blank" rel="noreferrer"> 
-    <img src="https://jsdelivr.net" alt="redux" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://jsdelivr.net" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://jsdelivr.net" alt="express" width="40" height="40"/> 
-  </a> 
-  <a href="https://docker.com" target="_blank" rel="noreferrer"> 
-    <img src="https://jsdelivr.net" alt="docker" width="40" height="40"/> 
-  </a>
+  <!-- Existing languages from your profile -->
+  <img src="https://shields.io" alt="cplusplus"/>
+  <img src="https://shields.io" alt="css3"/>
+  <img src="https://shields.io" alt="figma"/>
+  <img src="https://shields.io" alt="html5"/>
+  <img src="https://shields.io" alt="java"/>
+  <img src="https://shields.io" alt="javascript"/>
+  <img src="https://shields.io" alt="mariadb"/>
+  <img src="https://shields.io" alt="mysql"/>
+  <img src="https://shields.io" alt="postgresql"/>
+  
+  <!-- Newly added Full Stack tools -->
+  <img src="https://shields.io" alt="react"/>
+  <img src="https://shields.io" alt="redux"/>
+  <img src="https://shields.io" alt="nodejs"/>
+  <img src="https://shields.io" alt="express"/>
+  <img src="https://shields.io" alt="docker"/>
 </p>
 
 
